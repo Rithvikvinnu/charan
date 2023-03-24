@@ -1,0 +1,17 @@
+<form action="action_page.php">
+<html>
+<head>
+<title>Reset Password of Email </title>
+<h1 align="center" style=" color:violet;">Registration Form</h1>
+</head>
+<body>
+<p1 style="color:red;">
+Please fill the form to get the existing account
+</p1><br>
+<fieldset style="background-color:hsla(9, 100%, 64%,0.5);">
+<div class="input-container">
+<label for="email"><b>Email<br></b></label>
+<input type="text" placeholder ="Enter the email address " name="email" id="email"  required><br>
+</div>
+<div class="input-container">
+<label for ="psw"><b>Password</b><br></label>
